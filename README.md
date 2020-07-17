@@ -1,6 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sachuverma/">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/sachuverma_/">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  </a>
+</p>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
-h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/> </p>
 
 - 🔭 I’m currently working on **vKarma Webapp**
@@ -19,6 +29,6 @@ h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 
 <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="20" width="20" /></a>
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/sachinverma53121)
+⭐️ From [Sachin Verma](https://github.com/sachinverma53121)  ```El Psy Kongroo```
 
 
