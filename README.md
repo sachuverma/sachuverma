@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 - 🔭 I’m currently working on **vKarma Webapp**
 - 🌱 I’m currently learning ... **Django and React.js**
@@ -29,6 +29,6 @@
 <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="20" width="20" /></a>
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/sachinverma53121)  ```El Psy Kongroo```
+⭐️ From [Sachin Verma](https://github.com/sachinverma53121) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
 
 
