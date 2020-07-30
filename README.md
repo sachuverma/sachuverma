@@ -25,46 +25,47 @@
 - 📫 How to reach me **sachinverma53121@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="icons/python.png" alt=python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg alt=d3js width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg alt=jquery width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/babel/babel-original.svg alt=babel width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg alt=npm width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg alt=npm width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg alt=express width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/> 
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg alt=redux width="60" height="60"/> 
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg alt=django width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg alt=github width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg alt=heroku width="60" height="60"/>
+	<img style="margin: auto;" src="icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="icons/d3.png" alt=d3js width="60" height="60"/>
+	<img style="margin: auto;" src="icons/jquery.png" alt=jquery width="60" height="60"/>
+  <img style="margin: auto;" src="icons/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="icons/babel.png" alt=babel width="60" height="60"/>
+  <img style="margin: auto;" src="icons/sass.png" alt=sass width="60" height="60"/>
+	<img style="margin: auto;" src="icons/gulp.png" alt=gulp width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/psql.png" alt=postgresql width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/php.png" alt=php width="60" height="60"/> 
+	<img style="margin: auto;" src="icons/npm.png" alt=npm width="60" height="60"/>
+  <img style="margin: auto;" src="icons/yarn.png" alt=yarn width="60" height="60"/>
+  <img style="margin: auto;" src="icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="icons/redux.png" alt=redux width="60" height="60"/> 
+  <img style="margin: auto;" src="icons/django.png" alt=django width="60" height="60"/>
+	<img style="margin: auto;" src="icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="icons/heroku.png" alt=heroku width="60" height="60"/>
  
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/slack/slack-original.svg alt=slack width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg alt=vs width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/atom/atom-original.svg alt=atom width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg alt=ubuntu width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg alt=windows8 width="60" height="60"/>
+  <img style="margin: auto;" src="icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="icons/atom.png" alt=atom width="60" height="60"/>
+  <img style="margin: auto;" src="icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
 <p align="center">
