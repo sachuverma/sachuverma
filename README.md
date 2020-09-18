@@ -71,7 +71,9 @@
 
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=sachinverma53121&show_icons=true alt=sachinverma53121 /> 
+	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api/top-langs/?username=sachinverma53121 alt=sachinverma53121 /> 
 </p>
+
 
 <p align="center">
 <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
