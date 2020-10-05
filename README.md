@@ -3,16 +3,19 @@
    <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
-  
   <a href="https://www.instagram.com/sachuverma_/">
     <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
   </a>
+  <span> <img src=https://komarev.com/ghpvc/?username=sachuverma alt=sachuverma/></span>
 </p>
+
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachuverma alt=sachuverma/></p>
 
+<p align="center">
+  <img src=https://undo.io/media/uploads/files/Frustrated_programmer.gif width="30%">
+</p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
