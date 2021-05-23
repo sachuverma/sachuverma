@@ -10,17 +10,22 @@
 </p>
 
 
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Web Developer | Competitive Coder</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+
+<!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
+<!-- <a href="https://codeforces.com/profile/sachuverma"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)"></a> -->
+<!-- <a href="https://atcoder.jp/users/sachuverma"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)"></a> -->
+<!-- <a href="https://leetcode.com/anjali-mc/"><img src="https://img.shields.io/badge/Leetcode-1940-ff69b4"></a> -->
+<!-- <a href="https://www.hackerrank.com/sachuverma"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a> -->
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
+- 🔭 I’m currently working on **Improving CP Skills**
+- 🌱 I’m currently learning ... **React.js**
+- 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
+- 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
 <h4>Programming Languages: </h4>
 <p align="left">
