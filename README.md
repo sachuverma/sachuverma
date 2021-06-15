@@ -27,6 +27,13 @@
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
+
+<h3>Competitive Programming: </h3>
+
+- **Leetcode**: 2000+ rating📈 (max)
+- **Codeforces**: Specialis🧪 (max)
+- **Codechef**: 4⭐ (max)
+
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
