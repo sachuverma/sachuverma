@@ -31,7 +31,7 @@
 <h3>Competitive Programming: </h3>
 
 - **Leetcode**: 2000+ rating📈 (max)
-- **Codeforces**: Specialis🧪 (max)
+- **Codeforces**: Specialist🧪 (max)
 - **Codechef**: 4⭐ (max)
 
 <h4>Programming Languages: </h4>
