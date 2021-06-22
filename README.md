@@ -82,6 +82,77 @@
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-639931%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,132 Contributions in the Year 2021
+ > 
+> 📦 1.2 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 15 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+🌆 Daytime    469 commits    ██████████░░░░░░░░░░░░░░░   42.1% 
+🌃 Evening    398 commits    █████████░░░░░░░░░░░░░░░░   35.73% 
+🌙 Night      78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+Tuesday      213 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
+Wednesday    162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Thursday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Friday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Saturday     154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Sunday       127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   42.37% 
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
+
+
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
 
 <!-- <p align="center">
