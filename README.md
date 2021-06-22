@@ -80,7 +80,11 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<p align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachuverma&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuverma&layout=compact" height="170px">
 </p>
@@ -88,7 +92,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sachuverma" height="170px">
 </p>
-
+ -->
 
 <p align="center">
 <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
@@ -98,79 +102,3 @@
 </p>
 
 ⭐️ From [Sachin Verma](https://github.com/sachuverma) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-639931%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 1,130 Contributions in the Year 2021
- > 
-> 📦 1.2 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-🌆 Daytime    467 commits    ██████████░░░░░░░░░░░░░░░   42.0% 
-🌃 Evening    398 commits    █████████░░░░░░░░░░░░░░░░   35.79% 
-🌙 Night      78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
-Tuesday      211 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
-Wednesday    162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Thursday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Friday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Saturday     154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Sunday       127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.42%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   42.37% 
-HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   22.03% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
-
-
- Last Updated on 22/06/2021
-<!--END_SECTION:waka-->
