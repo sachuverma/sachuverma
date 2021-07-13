@@ -81,79 +81,15 @@
 </p>
 
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624488%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 1,268 Contributions in the Year 2021
- > 
-> 📦 1.2 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 14 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-🌆 Daytime    414 commits    ██████████░░░░░░░░░░░░░░░   39.77% 
-🌃 Evening    382 commits    █████████░░░░░░░░░░░░░░░░   36.7% 
-🌙 Night      97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Tuesday      205 commits    █████░░░░░░░░░░░░░░░░░░░░   19.69% 
-Wednesday    158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Thursday     142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Friday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Saturday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-Sunday       123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.82%
-
-```
+<details>
+  <summary style="font-size:4rem;">Check My Stats!✨</summary>
+	
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+	
+</details>
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
-HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
-
-
- Last Updated on 12/07/2021
-<!--END_SECTION:waka-->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachuverma&count_private=true&show_icons=true" height="170px">
