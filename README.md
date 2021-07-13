@@ -85,7 +85,78 @@
   <summary style="font-size:4rem;">Check My Stats!✨</summary>
 	
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624585%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,274 Contributions in the Year 2021
+ > 
+> 📦 1.2 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 14 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
+🌆 Daytime    417 commits    ██████████░░░░░░░░░░░░░░░   40.02% 
+🌃 Evening    380 commits    █████████░░░░░░░░░░░░░░░░   36.47% 
+🌙 Night      97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       175 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
+Tuesday      207 commits    █████░░░░░░░░░░░░░░░░░░░░   19.87% 
+Wednesday    158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
+Thursday     142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
+Friday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Saturday     109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+Sunday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
+
+
+ Last Updated on 13/07/2021
+<!--END_SECTION:waka-->
 	
 </details>
 
