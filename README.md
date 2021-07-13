@@ -79,10 +79,13 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
-
+<br />
 
 <details>
-  <summary style="font-size:4rem;">Check My Stats!✨</summary>
+  <summary align="center"> 
+    <span style="font-size:4em;">Check My Stats!✨ </span>
+  </summary>
+  <br />
 	
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624585%20lines%20of%20code-blue)
