@@ -30,9 +30,9 @@
 
 <h3>Competitive Programming: </h3>
 
-- **Leetcode**: 2000+ rating📈 (max)
-- **Codeforces**: Specialist🧪 (max)
-- **Codechef**: 4⭐ (max)
+- **Leetcode**: [2000+ rating📈](https://leetcode.com/sachuverma/) (max)
+- **Codeforces**: [Specialist🧪](https://codeforces.com/profile/sachuverma) (max)
+- **Codechef**: [4⭐](https://www.codechef.com/users/sachuverma) (max)
 
 <h4>Programming Languages: </h4>
 <p align="left">
