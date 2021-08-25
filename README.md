@@ -22,7 +22,7 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **Improving CP Skills**
+- 🔭 I’m currently as **Solution's Author** on **Leetcode**
 - 🌱 I’m currently learning ... **React.js**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 😄 Employement ... **Open for full-time opportunities**
