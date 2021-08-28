@@ -88,11 +88,11 @@
   <br />
 	
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632230%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632259%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,367 Contributions in the Year 2021
+> 🏆 1,368 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -115,11 +115,11 @@
 
 ```text
 Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
-Tuesday      181 commits    █████░░░░░░░░░░░░░░░░░░░░   21.6% 
+Tuesday      180 commits    █████░░░░░░░░░░░░░░░░░░░░   21.48% 
 Wednesday    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
 Thursday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
 Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Saturday     85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Saturday     86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 Sunday       92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
 
 ```
@@ -158,7 +158,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 	
 </details>
