@@ -1,14 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
- <p align="center"><br/>
+<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+
+  ![Codechef](https://cp-logo.vercel.app/codechef/sachuverma)
+  ![Leetcode](https://cp-logo.vercel.app/leetcode/sachuverma) 
+
+	
+ <p align="">
    <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
-  </a>
-  <a href="https://www.instagram.com/sachuverma_/">
+   </a>
+   <a href="https://www.instagram.com/sachuverma_/">
     <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
-  </a>
+   </a>
   <span> <img src="https://komarev.com/ghpvc/?username=sachuverma" alt="sachuverma"></span>
 </p>
 
+<br />
 
 <h3 align="center">Web Developer | Competitive Coder</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
