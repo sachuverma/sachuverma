@@ -1,8 +1,8 @@
 <h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
 
-  ![Codechef](https://cp-logo.vercel.app/codechef/sachuverma)
+  ![Codechef](https://cp-logo.vercel.app/codechef/sachuverma) 
   ![Leetcode](https://cp-logo.vercel.app/leetcode/sachuverma) 
-
+  ![Codeforces](https://cp-logo.vercel.app/codeforces/sachuverma)
 	
  <p align="">
    <a href="https://www.linkedin.com/in/sachuverma/">
