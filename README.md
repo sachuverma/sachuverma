@@ -94,7 +94,7 @@
   <br />
 	
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-618%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -164,7 +164,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/04/2022 18:49:13 UTC
+ Last Updated on 02/04/2022 18:46:32 UTC
 <!--END_SECTION:waka-->
 	
 </details>
