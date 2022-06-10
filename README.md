@@ -1,4 +1,4 @@
-<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Sachin Verma</h1>
 
   ![Codechef](https://cp-logo.vercel.app/codechef/sachuverma) 
   ![Leetcode](https://cp-logo.vercel.app/leetcode/sachuverma) 
