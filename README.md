@@ -1,4 +1,4 @@
-<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Sachin Verma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Sachin Verma</h1>
 
   ![Codechef](https://cp-logo.vercel.app/codechef/sachuverma) 
   ![Leetcode](https://cp-logo.vercel.app/leetcode/sachuverma) 
@@ -17,7 +17,7 @@
 <br />
 
 <h3 align="center">Web Developer | Competitive Coder</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (Graduated in 2022)</h3> 
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
 <!-- <a href="https://codeforces.com/profile/sachuverma"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)"></a> -->
@@ -28,17 +28,17 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working as **Solution's Author** on **Leetcode**
-- 🌱 I’m currently learning ... **React.js**
+- 🔭 I’m currently working as an **SDE** at **Deutsche Telekom**
+- 🌱 I also write solutions on **LeetCode**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
-- 😄 Employement ... **Open for full-time opportunities**
+- 😄 Employement ... **Open for better full-time offers**
 - 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
 
 <h3>Competitive Programming: </h3>
 
 - **Leetcode**: [2000+ rating📈](https://leetcode.com/sachuverma/)   
 - **Codeforces**: [Specialist🧪](https://codeforces.com/profile/sachuverma)   
-- **Codechef**: [4⭐](https://www.codechef.com/users/sachuverma)   
+- **Codechef**: [1950+ rating⭐](https://www.codechef.com/users/sachuverma)   
 
 <h4>Programming Languages: </h4>
 <p align="left">
