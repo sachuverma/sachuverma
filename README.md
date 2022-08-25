@@ -100,8 +100,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2022
- > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -166,7 +164,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2022 19:01:08 UTC
+ Last Updated on 25/08/2022 18:59:25 UTC
 <!--END_SECTION:waka-->
 	
 </details>
