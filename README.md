@@ -96,11 +96,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-634%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-635%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -110,45 +110,6 @@
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    61 commits     ██████░░░░░░░░░░░░░░░░░░░   26.75% 
-🌆 Daytime    76 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    76 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
-Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-Friday       46 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
-Saturday     61 commits     ██████░░░░░░░░░░░░░░░░░░░   26.75% 
-Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -166,7 +127,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:56:34 UTC
+ Last Updated on 05/09/2022 18:54:51 UTC
 <!--END_SECTION:waka-->
 	
 </details>
