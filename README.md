@@ -100,7 +100,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 93 Contributions in the Year 2022
+> 🏆 94 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -110,6 +110,45 @@
  > 
 > 🔑 14 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    63 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌆 Daytime    78 commits     ████████░░░░░░░░░░░░░░░░░   33.77% 
+🌃 Evening    75 commits     ████████░░░░░░░░░░░░░░░░░   32.47% 
+🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Friday       47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+Saturday     60 commits     ██████░░░░░░░░░░░░░░░░░░░   25.97% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -127,7 +166,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:59:52 UTC
+ Last Updated on 27/09/2022 19:10:31 UTC
 <!--END_SECTION:waka-->
 	
 </details>
