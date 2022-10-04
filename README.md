@@ -16,7 +16,7 @@
 
 <br />
 
-<h3 align="center">Web Developer | Competitive Coder</h3>
+<h3 align="center">Web (MERN) Developer | iOS Developer | Competitive Coder</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (Graduated in 2022)</h3> 
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
