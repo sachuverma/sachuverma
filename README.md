@@ -110,45 +110,6 @@
  > 
 > 🔑 14 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.65% 
-🌆 Daytime    126 commits    █████████░░░░░░░░░░░░░░░░   37.06% 
-🌃 Evening    108 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
-🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-Tuesday      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Wednesday    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Friday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   22.06% 
-Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -166,7 +127,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sachuverma/sachuverma/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:04:04 UTC
+ Last Updated on 09/11/2022 18:50:48 UTC
 <!--END_SECTION:waka-->
 	
 </details>
