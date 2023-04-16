@@ -28,7 +28,7 @@
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working as an **SDE** at **Deutsche Telekom**
+- 🔭 I’m currently working as an **Software Development Engineer**
 - 🌱 I also write solutions on **LeetCode**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms**
 - 😄 Employement ... **Open for better full-time offers**
